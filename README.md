@@ -1,6 +1,6 @@
 # Criptografia-RSA
 
-Não encontramos muitos problemas de códigos pois estavamos utilizando a linguagem Go, porque além dos motivos abaixo, também alguns membros do time estão fazendo um minicurso dessa linguagem.
+Não encontramos muitos problemas de códigos pois estavamos utilizando python que, além dos motivos abaixo, existe uma extensa comunidade que se ajudam 24hrs/dia.
 
 O codigo também foi organizado seguindo algumas métricas do clean code, infelizmente devido ao curto prazo para a entrega, ainda não foi possivel realizar testes.
 
