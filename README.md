@@ -4,11 +4,21 @@ Não encontramos muitos problemas de códigos pois estavamos utilizando a lingua
 
 O codigo também foi organizado seguindo algumas métricas do clean code, infelizmente devido ao curto prazo para a entrega, ainda não foi possivel realizar testes.
 
-## Motivos para termos escolhido Golang
+## Motivos para termos escolhido Python
 
-* A facilidade de uso: A linguagem apresenta uma sintaxe fácil de usar. Isso torna fácil a manutenção do código.
-* Linguagem de segurança: como Go é uma linguagem de tipo estático, há menos probabilidades de erro. Essa é uma vantagem sobre as linguagens tipadas dinamicamente com um grande número de tipos de variáveis ​​e maiores chances de erros de codificação complexos. Além disso, o código escrito em Go é mais simples e fácil de depurar. A combinação desses fatores reduz as vulnerabilidades de segurança do aplicativo.
-* Excelente documentação: Go não só tem uma excelente documentação, mas vai um passo além. Os desenvolvedores que não documentam seu código o suficiente recebem alertas para colocar em prática a documentação necessária. Isso aumenta a capacidade de manutenção do código escrito em Go.
+* Praticidade: Python em essência tem uma sintaxe muito simples. A mesma lógica que necessita 7 linhas em linguagem C++, requer apenas 3 no python. Ter um código menor significa que precisa de menos espaço, menos tempo, e é bem recebido entre os programadores, porque requer menos tempo para retrabalhar e corrigir. A linguagem cumpre todos os parâmetros de legibilidade. Para se auto-ajudar a linguagem tem vários built-ins e bibliotecas que o tornam fáceis de compreender.
+  
+  Um software que requer menos tempo para programar utiliza menos recursos, portanto, ajuda em redução de custo e produz mais lucro.
+
+--------
+
+* Versatiliade: Sendo uma plataforma grátis, qualquer empresa de pequeno e médio porte consegue usá-la. Empresas que estão no estágio embrionário conseguem usar a plataforma Python e começar suas operações com um software de bom custo benefício. A capacidade de desenvolver aplicativos e softwares torna isso conveniente para startups, pois eles podem sobreviver à competição feroz alavancando a velocidade da linguagem Python.
+
+--------
+
+* Simplicidade: Java e C++ são as linguagens nativas com a abordagem orientada para o objeto. O seu uso é bem disseminado, com tremenda eficiência, o problema com essas linguagens é que são compridas. Os códigos são complexos e, portanto, para corrigir ou retrabalhar é um processo imensamente tedioso. Python, por outro lado, tem todas as características de programação orientada para o objeto igual o Java e C++, e é fácil também. Os códigos são mais curtos e a sintaxe simples, sendo assim fácil de arrumar, retrabalhar e otimizar.
+  
+--------
 
 ## Considerações finais
 
